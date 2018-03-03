@@ -25,11 +25,13 @@ for line in data_file:  #Builds 2D Char array with sorting data
 data_file.close()
 
 
-#Building Plots (Done)
+#Building plot for each Sort Algorithm (Done)
 for i in range(0,5):
     #Passes sort name and sort data converted to integers
     single_sort_chart(data[i][0],list(map(int,data[i][1:7])))
 
+
+#Building a plot for all algorithms side by side
 '''Value Error present!'''
 data = np.array(data)
 pos,width,space = np.arange(6),0.5,0
