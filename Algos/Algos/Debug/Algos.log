@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ahmed\documents\visual studio 2017\projects\algos\algos\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Algos.vcxproj -> C:\Users\ahmed\documents\visual studio 2017\Projects\Algos\Debug\Algos.exe
+  Algos.vcxproj -> C:\Users\ahmed\documents\visual studio 2017\Projects\Algos\Debug\Algos.pdb (Partial PDB)

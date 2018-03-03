@@ -1,0 +1,11 @@
+﻿  Algos.cpp
+  Main.cpp
+Main.cpp(101): warning C4244: '=': conversion from '__int64' to 'float', possible loss of data
+Main.cpp(119): warning C4244: '=': conversion from '__int64' to 'float', possible loss of data
+Main.cpp(137): warning C4244: '=': conversion from '__int64' to 'float', possible loss of data
+Main.cpp(155): warning C4244: '=': conversion from '__int64' to 'float', possible loss of data
+Main.cpp(172): warning C4244: '=': conversion from '__int64' to 'float', possible loss of data
+  Generating code
+  All 284 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Algos.vcxproj -> C:\Users\ahmed\documents\visual studio 2017\Projects\Algos\x64\Release\Algos.exe
