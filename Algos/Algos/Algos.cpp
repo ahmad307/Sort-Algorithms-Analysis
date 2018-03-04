@@ -139,7 +139,9 @@ void Algos<T>::QuickSort(T arr[], int low, int high)
 template <class T>
 int Algos<T>::partition(T arr[], int low, int high)
 {
+	//Choosing the last element as the pivot element
 	int pivot = arr[high], i = low - 1;
+
 	for (int j = low; j<high; j++)
 	{
 		if (arr[j] <= pivot)
@@ -149,6 +151,8 @@ int Algos<T>::partition(T arr[], int low, int high)
 		}
 	}
 	swap(arr[i + 1], arr[high]);
+
+	//Returning the index at which the array is partitioned
 	return i + 1;
 }
 

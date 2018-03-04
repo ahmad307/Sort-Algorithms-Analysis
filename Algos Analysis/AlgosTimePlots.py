@@ -33,11 +33,11 @@ for i in range(0,5):
 
 #Building a plot for all algorithms side by side
 '''Value Error present!'''
-data = np.array(data)
+'''data = np.array(data)
 pos,width,space = np.arange(6),0.5,0
 for i in range(1,7):
     times =  list(map(int,data[:,space + 1]))
     plt.bar(pos+width,times,width)
     space += 1
 
-plt.show()
+plt.show()'''

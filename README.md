@@ -1,10 +1,10 @@
 # Sort-Algorithms-Analysis
-My implementation of some of the well-known sorting algorithms, with calulation of each algorithm's runtime with different datasets, and then analysing obtained data using *Matplotlib* Python library.
+My implementation of some of the well-known sorting algorithms, with calculation of each algorithm's runtime with different datasets, and then analysing obtained data using *Matplotlib* Python library.
 
 The repository is divided as follows:
 
 ## Visual Studio Project
-The Visual Studio Project consists of different folders, the most important is *Algos* containing 3 main file:
+The Visual Studio Project consists of different folders, the most important is *Algos* containing 3 main files:
 * Algos.h
 * Algos.cpp
 * Main.cpp
