@@ -15,7 +15,6 @@ public:
 	int *myArr, myArrSize;
 
 	Algos();
-	~Algos();
 
 	/* Random array generator */
 	vector<T> generateArray(int size, int max);

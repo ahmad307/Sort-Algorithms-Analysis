@@ -205,7 +205,4 @@ void Algos<T>::BubbleSort(T arr[])
 	}
 }
 
-template <class T>
-Algos<T>::~Algos()
-{
-}
+
